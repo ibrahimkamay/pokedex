@@ -2,7 +2,7 @@
 ![Ekran görüntüsü_20230215_184544](https://user-images.githubusercontent.com/20613572/219077868-bf37cdf3-aaa3-4064-ab5d-fec3ecf8c1ca.png)
 
 
-**Demo Linki** **[Weather App ](https://pokedexhik.netlify.app/)**
+**Demo Linki** **[Pokedex App ](https://pokedexhik.netlify.app/)**
 
 ---
 
